@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-08-09T06:05:25.669Z</updated>
+    <title>Blog-Hong_Mo</title>
+    <updated>2021-08-09T06:07:01.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>这里是我(Hong_Mo)的博客</subtitle>
     <logo>https://besin2233.github.io/images/avatar.png</logo>
     <icon>https://besin2233.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Blog-Hong_Mo</rights>
     <entry>
         <title type="html"><![CDATA[下载源--一个新的工程]]></title>
         <id>https://besin2233.github.io/post/xia-zai-yuan-yi-ge-xin-de-gong-cheng/</id>
