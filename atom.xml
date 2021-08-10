@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-08-10T03:34:00.562Z</updated>
+    <updated>2021-08-10T08:15:10.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
@@ -27,6 +27,7 @@ MSGLAPI--一款为了追求快速下载的下载源!<br>
 下载源链接+/Minecraft+/版本号.jar<br>
 示例:<br>
 https://MSGLAPI.github.io/Minecarft/jar/1.16.5.jar<br>
+<a draggable="true" href="http://MSGLAPI.github.io/Minecraft/jar/1.16.5.jar">1.16.5.jar</a><br>
 这样你就可以下载到一个Minecarft版本号为1.16.5的jar文件了qwq</p>
 ]]></content>
     </entry>
