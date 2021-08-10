@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-08-10T08:20:57.570Z</updated>
+    <updated>2021-08-10T08:34:40.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
@@ -13,7 +13,7 @@
     <icon>https://besin2233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Blog-Hong_Mo</rights>
     <entry>
-        <title type="html"><![CDATA[Hi，下载源正式定名：”MSGLAPI“，以下是它的大体介绍:]]></title>
+        <title type="html"><![CDATA[Hi，下载源正式定名:”MSGLAPI“，以下是它的大体介绍:]]></title>
         <id>https://besin2233.github.io/post/hixia-zai-yuan-zheng-shi-ding-ming-msglapiyi-xia-shi-ta-de-da-ti-jie-shao/</id>
         <link href="https://besin2233.github.io/post/hixia-zai-yuan-zheng-shi-ding-ming-msglapiyi-xia-shi-ta-de-da-ti-jie-shao/">
         </link>
@@ -29,7 +29,9 @@ MSGLAPI--一款为了追求快速下载的下载源!
         示例:
         https://MSGLAPI.github.io/Minecarft/jar/1.16.5.jar
  点点看:<a draggable="true" href="http://MSGLAPI.github.io/Minecraft/jar/1.16.5.jar">1.16.5.jar</a>
- 这样你就可以下载到一个Minecarft版本号为1.16.5的jar文件了qwq</p>
+ 这样你就可以下载到一个Minecarft版本号为1.16.5的jar文件了qwq...</p>
+ <p>------------</p>
+ <p><font color="#008252">可是,光有一个版本核心文件也不够,众所周之,启动一个Minecraft除一个核心文件外，还需要:"json文件,libraries与assets",这样才能正常启动一个Minecraft</font>后续内容正在加紧制作,敬请期待......</p>
 ]]></content>
     </entry>
     <entry>
