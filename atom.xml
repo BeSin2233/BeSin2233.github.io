@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-08-10T08:17:26.822Z</updated>
+    <updated>2021-08-10T08:18:26.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
@@ -18,17 +18,17 @@
         <link href="https://besin2233.github.io/post/hixia-zai-yuan-zheng-shi-ding-ming-msglapiyi-xia-shi-ta-de-da-ti-jie-shao/">
         </link>
         <updated>2021-08-10T03:12:12.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="简介msglapi-一款为了追求快速下载的下载源它的链接为httpsmsglapigithubio你可以用它来下载minecarft原版forgefabricoptifine">简介：<br>
+        <content type="html"><![CDATA[<h2 id="p简介msglapi-一款为了追求快速下载的下载源它的链接为httpsmsglapigithubio你可以用它来下载minecarft原版forgefabricoptifinep"><p>简介：<br>
 MSGLAPI--一款为了追求快速下载的下载源!<br>
 它的链接为:https://MSGLAPI.github.io<br>
-你可以用它来下载Minecarft原版,Forge,Fabric,OptiFine</h2>
-<p>使用方法:<br>
-下载Minecraft的本体文件,可以使用如下方法<br>
-下载源链接+/Minecraft+/版本号.jar<br>
-示例:<br>
-https://MSGLAPI.github.io/Minecarft/jar/1.16.5.jar<br>
-点点看:<a draggable="true" href="http://MSGLAPI.github.io/Minecraft/jar/1.16.5.jar">1.16.5.jar</a><br>
-这样你就可以下载到一个Minecarft版本号为1.16.5的jar文件了qwq</p>
+你可以用它来下载Minecarft原版,Forge,Fabric,OptiFine</p></h2>
+<p>使用方法:
+下载Minecraft的本体文件,可以使用如下方法
+       下载源链接+/Minecraft+/版本号.jar
+        示例:
+        https://MSGLAPI.github.io/Minecarft/jar/1.16.5.jar
+ 点点看:<a draggable="true" href="http://MSGLAPI.github.io/Minecraft/jar/1.16.5.jar">1.16.5.jar</a>
+ 这样你就可以下载到一个Minecarft版本号为1.16.5的jar文件了qwq</p>
 ]]></content>
     </entry>
     <entry>
