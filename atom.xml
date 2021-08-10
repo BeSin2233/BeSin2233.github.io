@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-08-10T09:19:08.841Z</updated>
+    <updated>2021-08-10T10:54:11.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
@@ -30,7 +30,7 @@ MSGLAPI--一款为了追求快速下载的下载源!
         https://MSGLAPI.github.io/Minecarft/jar/1.16.5.jar
  点点看:<a draggable="true" href="http://MSGLAPI.github.io/Minecraft/jar/1.16.5.jar">1.16.5.jar</a>
  这样你就可以下载到一个Minecarft版本号为1.16.5的jar文件了qwq...
- ![](https://besin2233.github.io//post-images/1628586598812.png)</p>
+<img src="https://besin2233.github.io//post-images/1628586598812.png"></p>
  <p>------------</p>
  <p><font color="#008252">可是,光有一个版本核心文件也不够,众所周之,启动一个Minecraft除一个核心文件外，还需要:"json文件,libraries与assets",这样才能正常启动一个Minecraft</font></p>
 ]]></content>
