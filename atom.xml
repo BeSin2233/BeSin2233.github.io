@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-08-11T01:35:37.194Z</updated>
+    <updated>2021-08-11T08:04:57.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
@@ -35,6 +35,7 @@ MSGLAPI--一款为了追求快速下载的下载源!
  <p><font color="#008252">可是,光有一个版本核心文件也不够,众所周之,启动一个Minecraft除一个核心文件外，还需要:"json文件,libraries与assets",这样才能正常启动一个Minecraft，</font>所以你可以使用下载源链接+/Minecraft+/json+/版本号.json以获取json中的内容,试试看,<a draggable="true" href="https://MSGLAPI.github.io/Minecraft/json/1.16.5.json">这里是1.16.5.json</a></p>
  <p>------------</p>
  <p>除此以外，我们还需要获取版本信息，你可以访问<a href="https://msglapi.github.io/mc/game/version_manifest.json">https://msglapi.github.io/mc/game/version_manifest.json</a>来获取,但一定要将"https://launchermeta.mojang.com/v1/packages/8b976413591b4132fc4f27370dcd87ce1e50fb2f这个链接替换为https://MSGLAPI.github.io/Minecraft/json即可
+<img src="https://i.postimg.cc/tCVXbD6K/2021-08-11-155513.png">
 ]]></content>
     </entry>
     <entry>
