@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-08-11T08:18:07.015Z</updated>
+    <updated>2021-08-13T08:11:01.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
@@ -19,7 +19,8 @@
         </link>
         <updated>2021-08-10T03:12:12.000Z</updated>
         <content type="html"><![CDATA[<p>简介：
-MSGLAPI--一款为了追求快速下载的下载源!
+MSGLAPI Mirrors--一款为了追求快速下载的下载源!
+一个快速的镜像(Mirrors)源
 它的链接为:<a href="https://MSGLAPI.github.io">https://MSGLAPI.github.io</a>
 你可以用它来下载Minecarft原版,Forge,Fabric,OptiFine</p>
 <p>------------</p>
@@ -36,7 +37,7 @@ MSGLAPI--一款为了追求快速下载的下载源!
  <p>------------</p>
  <p>除此以外，我们还需要获取版本信息，你可以访问<a href="https://msglapi.github.io/mc/game/version_manifest.json">https://msglapi.github.io/mc/game/version_manifest.json</a>来获取,但一定要将"https://launchermeta.mojang.com/v1/packages/8b976413591b4132fc4f27370dcd87ce1e50fb2f这个链接替换为https://MSGLAPI.github.io/Minecraft/json即可
 <img src="https://i.postimg.cc/tCVXbD6K/2021-08-11-155513.png">
-<font color="FF000">但是，需要注意的是除了标出来的那一个外，其他的url后的链接也需要改动，格式如下：/版本号.json 之前的url必须改成"https://MSGLAPI.github.io/Minecraft"</font>,这样就可以为启动器列出可用Minecraft的列表</p>
+<font color="FF000">但是，需要注意的是除了标出来的那一个外，其他的url后的链接也需要改动，格式如下：/版本号.json 之前的url必须改成"https://MSGLAPI.github.io/Minecraft/json"</font>,这样就可以为启动器列出可用Minecraft的列表</p>
 ]]></content>
     </entry>
     <entry>
