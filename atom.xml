@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-09-21T02:09:42.554Z</updated>
+    <updated>2021-09-21T02:11:31.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
@@ -39,6 +39,7 @@ MSGLAPI Mirrors--一款为了追求快速下载的下载源!
 <img src="https://i.postimg.cc/tCVXbD6K/2021-08-11-155513.png">
 <font color="FF000">但是，需要注意的是除了标出来的那一个外，其他的url后的链接也需要改动，格式如下：/版本号.json 之前的url必须改成"https://MSGLAPI.github.io/Minecraft/json"</font>,这样就可以为启动器列出可用Minecraft的列表</p>
 <iframe src="https://afdian.net/leaflet?slug=Hong_Mo" width="640" scrolling="no" height="200" frameborder="0"></iframe>
+<iframe id="afdian_leaflet_{1}" src="https://afdian.net/leaflet?slug={1}" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
 ]]></content>
     </entry>
     <entry>
