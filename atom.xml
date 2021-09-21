@@ -2,14 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besin2233.github.io/</id>
     <title>Blog-Hong_Mo</title>
-    <updated>2021-09-21T02:30:30.487Z</updated>
+    <updated>2021-09-21T02:31:10.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://besin2233.github.io/"/>
     <link rel="self" href="https://besin2233.github.io/atom.xml"/>
     <subtitle>这里是我(Hong_Mo)的博客
 你还可以访问我的&lt;a href=&quot;https://afdian.net/@Hong_Mo&quot;target=&quot;_black&quot;&gt;爱发电&lt;/a&gt;
-&lt;iframe id=&quot;afdian_leaflet_{1}&quot; src=&quot;https://afdian.net/leaflet?slug=Hong_Mo&quot; width=&quot;100&quot; scrolling=&quot;no&quot; height=&quot;100&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;script&gt;document.body.clientWidth&lt; 700 ? document.getElementById(&quot;afdian_leaflet_{1}&quot;).width = &quot;100%&quot; : document.getElementById(&quot;afdian_leaflet_{1}&quot;).width = &quot;640&quot;&lt;/script&gt;
- 
 </subtitle>
     <logo>https://besin2233.github.io/images/avatar.png</logo>
     <icon>https://besin2233.github.io/favicon.ico</icon>
